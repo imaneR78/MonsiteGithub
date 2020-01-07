@@ -48,6 +48,8 @@
                 </p>
             </main>
 
+            <p class="alert alert-info p-2 text-center">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi modi cumque esse possimus quam magni quis, voluptas dolor, similique autem rerum. Placeat quos ad molestias omnis ullam perspiciatis iure nobis! Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, repellendus consectetur pariatur facere minus deserunt ipsum eligendi velit autem in dolores fugiat voluptatum nostrum qui perspiciatis modi commodi. Voluptates, quam. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor eum enim et perspiciatis nulla quas iure, quae repudiandae, qui dolorem quidem provident doloremque, veritatis natus possimus perferendis in tenetur ab? Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, commodi dignissimos consequuntur repellendus consequatur veniam corrupti modi harum error quisquam enim recusandae dolore optio aut voluptates. Maiores obcaecati voluptatibus iusto. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque repellat autem eum natus vero, harum suscipit maxime non nulla fuga magnam est? Ut itaque nesciunt, consequuntur nulla reiciendis esse deserunt. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus voluptate nam et dolorum magni quasi error fuga, dolorem saepe soluta sed nisi inventore eos at veritatis harum voluptas unde quod.</p>
+
             <footer class="mastfoot mt-auto">
                 <div class="inner">
                     <p>Cover template for <a href="https://getbootstrap.com/">Bootstrap</a>, by <a href="https://twitter.com/mdo">@mdo</a>.</p>
